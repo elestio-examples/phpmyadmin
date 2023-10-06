@@ -12,7 +12,7 @@
 
 Deploy a <a target="_blank" href="https://elest.io/open-source/phpmyadmin">fully managed phpMyAdmin</a> on <a target="_blank" href="https://elest.io/">elest.io</a> if you want automated backups, reverse proxy with SSL termination, firewall, automated OS & Software updates, and a team of Linux experts and open source enthusiasts to ensure your services are always safe, and functional.
 
-[![deploy](https://github.com/elestio-examples/phpmyadmin/raw/main/deploy-on-elestio.png)](https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/phpmyadmin)
+[![deploy](https://github.com/elestio-examples/phpmyadmin/raw/master/deploy-on-elestio.png)](https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/phpmyadmin)
 
 # Why use Elestio images?
 
